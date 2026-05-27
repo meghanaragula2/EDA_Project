@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exploratory Data Analysis Dashboard
 
 ## Overview
@@ -18,3 +19,6 @@ This project performs Exploratory Data Analysis (EDA) using Python and Streamlit
 - Matplotlib
 - Seaborn
 - Streamlit
+=======
+# EDA_Project
+>>>>>>> b8db3cfc016fa50aeec079bca0cbef9045c6439e
